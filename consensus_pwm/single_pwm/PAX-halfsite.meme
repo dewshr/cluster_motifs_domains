@@ -1,0 +1,18 @@
+MEME version 4.11.2
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies(from unknown source):
+ A 0.250 C 0.250 G 0.250 T 0.250
+
+MOTIF PAX-halfsite
+
+letter-probability matrix: alength= 4 w= 6
+ 0.2245 0.0306 0.6837 0.0612
+ 0.0918 0.0612 0.0 0.8469
+ 0.0 0.9091 0.0303 0.0606
+ 0.8469 0.0306 0.0918 0.0306
+ 0.0612 0.551 0.0306 0.3571
+ 0.0606 0.0 0.6162 0.3232
